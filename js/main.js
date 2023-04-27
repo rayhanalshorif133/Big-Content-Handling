@@ -7,8 +7,8 @@
 */
 
 // Dependencies
-const http = require('http');
-const fs = require('fs');
+// const http = require('http');
+// const fs = require('fs');
 
 // App object - module scaffolding
 const app = {};
